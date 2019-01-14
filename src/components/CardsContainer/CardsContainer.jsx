@@ -1,5 +1,5 @@
 import React from "react";
-import journeys from "../../config/journeys";
+import journeys from "../../config/journeys.json";
 import Card from "../Card";
 import "./CardContainer.css";
 
