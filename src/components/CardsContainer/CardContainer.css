@@ -1,0 +1,7 @@
+.card-container *:hover{
+    text-decoration: none;
+}
+
+.card-container .card:hover {
+    border: 3px solid #107b44 !important;
+}
